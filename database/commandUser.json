@@ -1,0 +1,55 @@
+[
+  {
+    "jid": "6285871057403@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 14
+      },
+      {
+        "nama": "#donate",
+        "count": 3
+      },
+      {
+        "nama": "#addsewa",
+        "count": 1
+      },
+      {
+        "nama": "#listsewa",
+        "count": 2
+      },
+      {
+        "nama": "#sticker",
+        "count": 1
+      },
+      {
+        "nama": "#stickerwm",
+        "count": 1
+      },
+      {
+        "nama": "#broadcast",
+        "count": 1
+      },
+      {
+        "nama": "#setppbot",
+        "count": 1
+      },
+      {
+        "nama": "#owner",
+        "count": 2
+      },
+      {
+        "nama": "#welcome",
+        "count": 1
+      },
+      {
+        "nama": "#changewelcome",
+        "count": 1
+      },
+      {
+        "nama": "#emojimix",
+        "count": 1
+      }
+    ]
+  }
+]
